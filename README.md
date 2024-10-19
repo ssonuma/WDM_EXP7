@@ -94,4 +94,8 @@ plt.show()
 
 ### Output:
 
+![image](https://github.com/user-attachments/assets/2a52adb8-3a03-4fde-9ffc-152f959bda16)
+
+
 ### Result:
+Thus Link Analysis using HITS Algorithm in Python is successfully implemented.
